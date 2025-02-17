@@ -47,10 +47,10 @@
 <h2 align="center">Contact me</h2>
 
 <div id="badges" align="center" style="margin:400px; width: 1000px">
-    <a href="https://www.linkedin.com/in/gustavo-ga-dev/" target="_blank">
+    <a href="https://www.linkedin.com/in/gustavo-ga/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="mailto:g.alvarezftw@gmail.com" target="_blank">
+    <a href="mailto:gustavo.ga.engcomp@gmail.com" target="_blank">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </div>
